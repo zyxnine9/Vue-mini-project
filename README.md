@@ -5,19 +5,17 @@
 ## Build Setup
 
 ```Bash
-#install dependcnies
-npm install
+#clone the repository
+git clone git@github.com:zyxnine9/Vue-mini-project.git
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 ## Description
 
 This project is built follow by **Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)**  in Udemy.
+It is a mini project about "stock"
+Using the vue-cli 
